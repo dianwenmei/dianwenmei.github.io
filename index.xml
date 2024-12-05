@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Meidw&#39;Log.</title>
-    <link>http://localhost:1313/</link>
+    <link>https://dianwenmei.github.io/</link>
     <description>Recent content on Meidw&#39;Log.</description>
     <generator>Hugo -- 0.138.0</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 01 Dec 2024 15:44:50 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://dianwenmei.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First</title>
-      <link>http://localhost:1313/post/first/</link>
+      <link>https://dianwenmei.github.io/post/first/</link>
       <pubDate>Sun, 01 Dec 2024 15:44:50 +0800</pubDate>
-      <guid>http://localhost:1313/post/first/</guid>
+      <guid>https://dianwenmei.github.io/post/first/</guid>
       <description>&lt;h3 id=&#34;title-1&#34;&gt;title 1&lt;/h3&gt;
 &lt;h2 id=&#34;title-2&#34;&gt;title 2&lt;/h2&gt;
 &lt;h1 id=&#34;title-3&#34;&gt;title 3&lt;/h1&gt;</description>
